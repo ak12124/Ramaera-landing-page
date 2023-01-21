@@ -850,12 +850,6 @@ color: #FFFFFF;
   html{
     font-size: 55%;
   }
-  .hero-section{
-    height: 70vh;
-  }
-  .description{
-    margin-top: 0;
-  }
 }
 @media only screen and (max-width: 690px){
   html{
